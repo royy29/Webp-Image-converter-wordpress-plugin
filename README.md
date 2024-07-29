@@ -59,7 +59,7 @@ Welcome to the **Image to WebP Converter** plugin! This handy tool helps you opt
 ## 👤 About the Author
 
 Hi there! I'm Subhroneel Roy, the creator of this plugin. I’m passionate about web performance and making the web a faster place for everyone. You can reach out to me for support or just to say hello!
-- **Email:** royrana774@gmail.com(mailto:royrana774@gmail.com)
+- **Email:** subhroneelroy5@gmail.com
 
 ## 📄 License
 
