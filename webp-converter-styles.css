@@ -1,0 +1,46 @@
+/* webp-converter-styles.css */
+
+.wrap h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#webp-converter-select-images {
+    margin-bottom: 20px;
+    background-color: #0073aa;
+    border-color: #0073aa;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#webp-converter-select-images:hover {
+    background-color: #005177;
+    border-color: #005177;
+}
+
+#webp-converter-form {
+    margin-top: 20px;
+}
+
+#webp-converter-form input[type="submit"] {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#webp-converter-form input[type="submit"]:hover {
+    background-color: #1e7e34;
+    border-color: #1e7e34;
+}
+
+ul {
+    margin-top: 20px;
+    list-style-type: disc;
+    margin-left: 20px;
+}
