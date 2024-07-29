@@ -1,9 +1,13 @@
 # Image to WebP Converter Plugin (WordPress)
 
 Welcome to the **Image to WebP Converter** plugin! This handy tool helps you optimize your images by converting them to the WebP format, a modern image format known for its superior compression and quality. Perfect for improving your website's load times and saving bandwidth, all while keeping your images looking great!
+
 ![Screenshot 2024-07-30 013638](https://github.com/user-attachments/assets/bbe2551b-254e-414d-8854-5073aea7d111)
+
 ![Screenshot 2024-07-30 013825](https://github.com/user-attachments/assets/33c3b809-5119-496a-a679-e04322ba269d)
-![Screenshot 2024-07-30 013917](https://github.com/user-attachments/assets/9e2dd955-3d6f-4522-b7f4-5b01f44cbfe1)
+
+![Screenshot 2024-07-30 013917](https://github.com/user-attachments/assets/45afb880-ad63-4332-9ad0-a53064b9066c)
+
 
 ## ✨ Features
 
