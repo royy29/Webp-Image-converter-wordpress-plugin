@@ -63,7 +63,7 @@ Hi there! I'm Subhroneel Roy, the creator of this plugin. I’m passionate about
 
 ## 📄 License
 
-This plugin is licensed under the GPLv2 or later. Feel free to use, modify, and distribute it under the same terms.
+This plugin is open source. Feel free to use, modify, and distribute it under the same terms.
 
 ## 🙏 Acknowledgements
 
